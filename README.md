@@ -7,3 +7,7 @@ iblLoader.py gets copied into a new python panel in Houdini
 
 Download ibl sets from http://hdrlabs.com/sibl/archive.html and browse to the folder containing the unzipped archives
 
+To do:
+
+Add .rat conversion on the fly
+Enable the .ibl creation section from HDR files
