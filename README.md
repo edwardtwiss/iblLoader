@@ -1,6 +1,8 @@
 # iblLoader
 Houdini python panel to load .ibl lighting files from: http://hdrlabs.com/sibl
 
+Currently supporting Mantra only
+
 iblLoader.ui goes in $HOUDINI_USER_PREF_DIR/python_panels
 
 iblLoader.py code gets copied into a new python panel interface in Houdini (http://www.sidefx.com/docs/houdini/ref/panes/pythonpanel)
