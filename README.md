@@ -12,3 +12,5 @@ To do:
 1) Add .rat conversion on the fly
 
 2) Enable the .ibl creation section from HDR files
+
+3) Enable other renderers
