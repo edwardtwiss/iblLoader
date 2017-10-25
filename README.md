@@ -9,5 +9,6 @@ Download ibl sets from http://hdrlabs.com/sibl/archive.html and browse to the fo
 
 To do:
 
-Add .rat conversion on the fly
-Enable the .ibl creation section from HDR files
+1) Add .rat conversion on the fly
+
+2) Enable the .ibl creation section from HDR files
