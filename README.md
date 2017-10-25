@@ -1,5 +1,5 @@
 # iblLoader
-Houdini python panel to load .ibl lighting files from: http://hdrlabs.com/sibl/
+Houdini python panel to load .ibl lighting files from: http://hdrlabs.com/sibl
 
 iblLoader.ui goes in $HOUDINI_USER_PREF_DIR/python_panels
 
