@@ -11,6 +11,6 @@ To do:
 
 1) Add .rat conversion on the fly
 
-2) Enable the .ibl creation section from HDR files
+2) Enable the .ibl creation section from HDR files (experimental)
 
-3) Enable other renderers
+3) Enable other renderers (Arnold, PRMan, Redshift, Vray etc) 
